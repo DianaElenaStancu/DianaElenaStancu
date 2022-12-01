@@ -1,11 +1,15 @@
+<!-- 
 <h1 align='center'>⚡️<i>Hi there!</i>⚡️</h1>
 <br/>
 <div align="center">
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DianaElenaStancu&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/DianaElenaStancu)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaElenaStancu&layout=compact&theme=vision-friendly-dark)](https://github.com/DianaElenaStancu)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaElenaStancu&layout=compact&theme=vision-friendly-dark)](https://github.com/DianaElenaStancu)
+
   <br/><br/><br/><br/><br/>
+  -->
+  <div align = "center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Labor+omnia+vincit+improbus;&size=25)](https://git.io/typing-svg)
   
